@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.avilla6.junit5app.ejemplos.models.CuentaTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in org.avilla6.junit5app.ejemplos.models.CuentaTest
