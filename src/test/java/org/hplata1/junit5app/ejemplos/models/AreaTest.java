@@ -10,7 +10,7 @@ class AreaTest {
     @Test
     void testArea() {
         Area area = new Area(4, 5);
-        Integer resultado = 21;
+        Integer resultado = 22;
 
         Integer real = area.getArea();
 
