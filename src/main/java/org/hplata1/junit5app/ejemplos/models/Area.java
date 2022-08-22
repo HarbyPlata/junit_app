@@ -10,7 +10,7 @@ public class Area {
     public Area(Integer base, Integer altura) {
         this.base = base;
         this.altura = altura;
-        area = base*altura;
+        area = base+altura;
     }
 
     public Integer getArea() {
